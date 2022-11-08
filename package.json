@@ -1,0 +1,23 @@
+{
+  "name": "jest-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonathanmunamire/Jest-Testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonathanmunamire/Jest-Testing/issues"
+  },
+  "homepage": "https://github.com/jonathanmunamire/Jest-Testing#readme",
+  "devDependencies": {
+    "jest": "^29.3.0"
+  }
+}
